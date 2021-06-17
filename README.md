@@ -12,8 +12,6 @@
 # possible problem
  recently the N2YO api is not stable. if the app didn't return the result, it may becuase the N2YO api's problem or my api key outdated.
 
-## deployed at:
-http://3.129.248.50/
 ## api offered by:
 https://www.n2yo.com/api/
 
